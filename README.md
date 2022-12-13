@@ -10,13 +10,13 @@
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=FERDIZ-afk.FERDIZ-afk??style=for-the-badge&logo=appveyor"></a><br>
   <a href="https://github.com/AMBYSBOTZ"><img src="https://i.ibb.co/gtJcJkV/the-silent-voice-landscape.jpg" /><a>
-  <!--<a href="https://github.com/FERDIZ-afk"><img src="https://cardivo.vercel.app/api?name=Eva%20nur&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>-->
+  <!--<a href="https://github.com/AMBYSBOTZ"><img src="https://cardivo.vercel.app/api?name=Eva%20nur&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>-->
 </p>
 
 
 <p align="center">
 <p align="center">
-<a href="#"><img title="XIAO-SAN" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="XIAO-SAN" src="https://img.shields.io/badge/XIAO_SAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <br>
 <!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAMBYSBOTZ" alt="PENGGUNJUNG GITHUB"-->
 <p align='center'>
